@@ -1,0 +1,6 @@
+module Pods_self3 {
+  umbrella header "Pods-self3-umbrella.h"
+
+  export *
+  module * { export * }
+}

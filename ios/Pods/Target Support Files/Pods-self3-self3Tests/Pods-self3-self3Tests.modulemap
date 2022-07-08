@@ -1,0 +1,6 @@
+module Pods_self3_self3Tests {
+  umbrella header "Pods-self3-self3Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
